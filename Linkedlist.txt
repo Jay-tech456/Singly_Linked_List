@@ -1,0 +1,25 @@
+print
+append 3
+append 4
+append 6
+append 8
+append 10
+print
+
+insert 1
+insert 7
+insert 5
+ print
+
+
+delete 1
+delete 4
+
+
+append 10
+print
+
+delete 3
+
+print
+QUIT
